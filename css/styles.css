@@ -1,0 +1,151 @@
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.all{
+    text-align: center;
+    margin-top: 150px;
+}
+
+body{
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: hsl(0, 0%, 95%);
+}
+
+.BUTTON_1 {
+    -webkit-border-radius: 59px;
+    -moz-border-radius: 59px;
+    border-radius: 59px;
+    color: hsl(31, 77%, 52%);
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 10px 20px;
+    background-color: #FFFFFF;
+    border: solid #ffffff 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_1:hover {
+    background: hsl(31, 77%, 52%);
+    color: hsla(0, 0%, 100%, 0.75);
+    border: solid hsla(0, 0%, 100%, 0.75) 2px;
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    border-radius: 60px;
+    text-decoration: none;
+ }
+
+ .BUTTON_2 {
+    -webkit-border-radius: 59px;
+    -moz-border-radius: 59px;
+    border-radius: 59px;
+    color: hsl(184, 100%, 22%);
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 10px 20px;
+    background-color: #FFFFFF;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_2:hover {
+    background: hsl(184, 100%, 22%);
+    border: solid hsla(0, 0%, 100%, 0.75) 2px;
+    color: hsla(0, 0%, 100%, 0.75);
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    border-radius: 60px;
+    text-decoration: none;
+ }
+
+ .BUTTON_3 {
+    -webkit-border-radius: 59px;
+    -moz-border-radius: 59px;
+    border-radius: 59px;
+    color: hsl(179, 100%, 13%);
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 10px 20px;
+    background-color: hsla(0, 0%, 100%, 0.75);
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_3:hover {
+    background: hsl(179, 100%, 13%);
+    color: hsla(0, 0%, 100%, 0.75);
+    border: solid hsla(0, 0%, 100%, 0.75) 2px;
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    border-radius: 60px;
+    text-decoration: none;
+ }
+
+.detail{
+    
+}
+
+.first-box{
+    background-color: hsl(31, 77%, 52%);
+    display: inline-block;
+    /* position: absolute;
+    left: 200px; */
+    width: 200px;
+    padding: 50px;
+    margin: 0;
+    border-width: 0;
+    outline: 0;
+}
+
+h1{
+    clear: both;
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+    text-align: left;
+}
+
+img{
+    float: left;
+    padding-bottom: 30px;
+}
+
+p{
+    clear: both;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 2;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.second-box{
+    background-color: hsl(184, 100%, 22%);
+    display: inline-block;
+    /* position: absolute;
+    left: 500px; */
+    width: 200px;
+    padding: 50px;
+    margin: 0;
+}
+
+.third-box{
+    background-color: hsl(179, 100%, 13%);
+    display: inline-block;
+    /* position: absolute;display: inline-block;
+    left: 800px; */
+    width: 200px;
+    padding: 50px;
+    margin: 0;
+}
